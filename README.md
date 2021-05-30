@@ -1,2 +1,2 @@
 # UXD
-UXD (CS Final Year Module)
+Mobile App Prototype with User Experience Design (CS Project for final year)
